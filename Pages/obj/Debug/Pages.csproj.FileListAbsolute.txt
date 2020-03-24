@@ -1,0 +1,12 @@
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\Pages.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\Pages.pdb
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\WebDriver.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\WebDriver.Support.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\WebDriver.xml
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\WebDriver.Support.xml
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\obj\Debug\Pages.csprojAssemblyReference.cache
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\obj\Debug\Pages.csproj.CopyComplete
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\obj\Debug\Pages.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\obj\Debug\Pages.pdb
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\Driver.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\Pages\bin\Debug\Driver.pdb

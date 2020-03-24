@@ -1,0 +1,5 @@
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\DataBase\bin\Debug\DataBase.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\DataBase\bin\Debug\DataBase.pdb
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\DataBase\obj\Debug\DataBase.dll
+C:\Users\greenNumber013\source\repos\Selenium BBC Automation\DataBase\obj\Debug\DataBase.pdb
